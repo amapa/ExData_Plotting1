@@ -1,7 +1,7 @@
 # Plot 2
 
 # First we load the data. 
-# ***PLEASE, INTRODUCE THE LOCATION OF THE DATA FILE IN YOUR PC BEFORE YOU START***
+# ***PLEASE, INTRODUCE YOUR WORKING DIRECTORY BEFORE WE START AND BE SURE THE DATA IS ON YOUR WD***
 setwd("YOUR WORKING DIRECTORY HERE")
 x <- read.table("household_power_consumption.txt", header = TRUE, sep = ";")
 
